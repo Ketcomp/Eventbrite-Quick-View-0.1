@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html>
+ <head>
+  <link rel="stylesheet" type="text/css" href="mystyle.css">
+  <!--Opens links in new windows-->
+  <base target="_blank" />
+ </head>
+
+ <body id="myBody">
+   <!--The "Eventbrite" text and party photo-->
+   <a href="https://www.eventbrite.com"><img id = "extension_logo" src="official_logo.png"></a>
+   <hr>
+   <img id="party_pic" src="http://goo.gl/A5znzw">
+   <hr>
+    
+   <!--Listing the top 4 popular events within 2 miles of the user's current location -->
+   <h3>Eventbrite : Quick-View! Top 4</h3>
+   <ul>
+    <li id="Item"><a id="e1" href="">No event</a></li>
+    <li id="Item"><a id="e2" href="">No event</a></li>
+    <li id="Item"><a id="e3" href="">No event</a></li>
+    <li id="Item"><a id="e4" href="">No event</a></li>
+   </ul>
+   <hr>
+   
+   <!--*************(EXTRA CREDIT PART)**************-->
+   
+   <!--Listing the top 4 popular events for the next weekend-->	
+   <h4>Busy this week? Fret not!</h4>
+   <h5> Next week we have a number of events lined up too!</h5>
+   <ul>
+    <li id="Item"><a id="ne1" href="">No event</a></li>
+    <li id="Item"><a id="ne2" href="">No event</a></li>
+    <li id="Item"><a id="ne3" href="">No event</a></li>
+    <li id="Item"><a id="ne4" href="">No event</a></li>
+   </ul>
+   
+   <!--Script is included at the end of <body> tag, as otherwise the data being referred to by the script may not be yet available.-->
+   <script src="myContent.js"></script>
+ </body>
+
+</html>

@@ -1,0 +1,18 @@
+#myBody{
+background-color: #00000;
+min-width: 340px;
+font-size: 14px;
+font-family: 'Lato', sans-serif;
+text-align: center;
+}
+
+#party_pic{
+alt: "Eventbrite : Quick-Look!";
+align: center;
+width  : 340px;
+height : 218px;
+}
+
+#Item{
+text-align: left;	
+}
