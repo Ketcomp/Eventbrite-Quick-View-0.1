@@ -34,6 +34,3 @@ III		Usage:
 	1. Make sure you are connected to the internet and click on the icon of the 'Eventbrite Quick-View' extension.
 	2. The most popular four events near your current location should appear.
 	3. The extension also shows top 4 events happening on the next weekend - albeit spanning a much larger area around your current location.
-	
-IV		Contact:
-	1. Reach out with bug reports and support queries at - gketkar08@gmail.com OR Cell: 678-786-4298
